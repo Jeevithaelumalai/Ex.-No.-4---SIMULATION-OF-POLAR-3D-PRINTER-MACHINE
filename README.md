@@ -33,8 +33,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:JEEVITHA.E
+### Register Number:212222230054
+![image](https://github.com/Jeevithaelumalai/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118708245/d99aefda-9edb-45ed-9a98-07224ef0af37)
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
